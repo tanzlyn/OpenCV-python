@@ -1,7 +1,7 @@
 # opencv_python
-基于Python的opencv图像处理代码
+**基于Python的opencv图像处理代码**
   
- 2. 载入、显示和保存数据  
+ ## 2. 载入、显示和保存数据  
   
   2.1 numpy相关函数操作  
   
